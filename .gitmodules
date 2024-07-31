@@ -1,0 +1,12 @@
+[submodule "Dependencies/macchiato"]
+	path = Dependencies/macchiato
+	url = https://github.com/sdlfoundation/macchiato
+[submodule "Dependencies/wups"]
+	path = Dependencies/wups
+	url = https://github.com/sdlfoundation/wiiupluginsystem
+[submodule "Dependencies/sdl-utils"]
+	path = Dependencies/sdl-utils
+	url = https://github.com/sdlfoundation/sdl-utils
+[submodule "Dependencies/libnotifications"]
+	path = Dependencies/libnotifications
+	url = https://github.com/wiiu-env/libnotifications
