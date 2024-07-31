@@ -1,9 +1,9 @@
-# SDL Grabber
-
 <div>
 <a target="_blank" href="https://sdlfoundation.com"><img align="center" width="64" height="64" src="./Assets/sdllogo.png" style="inline-block; margin-right: 5%" alt="SDL Foundation Logo"></a>
 <a target="_blank" href="https://discord.gg/K5FaeRtjrj"><img align="center" width="64" height="36" src="./Assets/discordlogo.png" style="inline-block" alt="Discord Logo"></a>
 </div>
+
+# SDL Grabber
 
 SDL Grabber is an infologger Aroma plugin for Splatoon developed by splatoon1enjoyer, the administrator of the SDL Foundation, that logs the following information of players you play with in order to make reporting cheaters and dealing with a certain exploit easier. Additionally, this is a direct replacement for the Friends List functionality of Wii U consoles for Splatoon.
 
